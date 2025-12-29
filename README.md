@@ -97,3 +97,10 @@ Finance Graduate | Aspiring Data Analyst
 🔗 GitHub: https://github.com/mahabubalam-gbs
 
 🔗 LinkedIn: https://www.linkedin.com/in/md-mahabub-alam-513611354/
+
+
+## 📸 Project Screenshots
+
+### Jupyter Notebook – Web Scraping Logic
+![Web scraping code](images/notebook_code.png)
+
